@@ -55,3 +55,4 @@ Jupyter Notebook
 С результатами вы можете ознакомиться в файле.
 
 ## Ссылка на репозиторий: 
+https://svetlinika-sl.github.io/project_video_game/
